@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriichuk)](https://github.com/andriichuk/andriichuk)
+[![Serhii's GitHub stats](https://github-readme-stats.vercel.app/api?username=andriichuk&count_private=true&show_icons=true)](https://github.com/andriichuk/andriichuk)
 
 <!--
 **andriichuk/andriichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
