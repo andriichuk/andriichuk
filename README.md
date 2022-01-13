@@ -17,7 +17,7 @@ Skills:
 - 🔍 ElasticSearch
 - 🪣 Redis/Memcache
 - 🔄 RabbitMQ & Redis
-- 🔵 Bambook, ⚫ Github Actions, and 🟠 GitLab CI/CD
+- 🔵 Bamboo, ⚫ Github Actions, and 🟠 GitLab CI/CD
 - 🔴 Laravel & 🦅 Phalcon
 - ✔️ Static analysis tools (PHPStan/Larastan/Psalm)
 - 🟡 Modern JavaScript ES5/ES6
