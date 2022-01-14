@@ -23,6 +23,8 @@ Skills:
   - 🔴 Laravel & 🦅 Phalcon
   - 🔄 WebSockets & Ratchet PHP
   - ✔️ Static analysis tools (PHPStan/Larastan/Psalm)
+  - 📏 PSR & Linters & Code style fixing automation
+  - 🐚 Bash scripting
 * Frontend 
   - 🟡 Modern JavaScript ES5/ES6
   - 🔵 jQuery, :atom: ReactJs (Fundamentals), 🟢 VueJs (Fundamentals)
