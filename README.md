@@ -1,27 +1,35 @@
-### Hi there 👋, my name is Serhii Andriichuk
-#### I am a PHP developer
+### Hi there 👋! My name is Serhii Andriichuk.
+#### I'm a PHP developer 🐘🚀
 ![Serhii Andriichuk](https://github.com/andriichuk/andriichuk/blob/master/hiking.jpg?raw=true)
+
+I'm from Ukraine, living in Kharkiv. I've been working with PHP for (${current_year} - 2015) years. 
 
 About
 
 - 🔭 I’m currently working on KeepEnv 
-- 🌱 I’m currently learning DDD, CQRS, Microservices 
+- 🌱 I’m currently learning DDD, CQRS, Microservices, Kubernetes
 - 💬 Ask me about PHP, Laravel, Phalcon, Application design and development
 - 📫 How to reach me: andriichuk29@gmail.com 
 - 😄 Pronouns: he/him 
 
 Skills: 
 
-- 🐘 PHP >= 5.3
-- 🐬 MySQL >= 5.6
-- 🔍 ElasticSearch
-- 🪣 Redis/Memcache
-- 🔄 RabbitMQ & Redis
-- 🔵 Bamboo, ⚫ Github Actions, and 🟠 GitLab CI/CD
-- 🔴 Laravel & 🦅 Phalcon
-- ✔️ Static analysis tools (PHPStan/Larastan/Psalm)
-- 🟡 Modern JavaScript ES5/ES6
-- 🔵 jQuery, :atom: ReactJs (Fundamentals), 🟢 VueJs (Fundamentals)
+* Backend:
+  - 🐘 PHP >= 5.3
+  - 🐬 MySQL >= 5.6
+  - 🔍 ElasticSearch
+  - 🪣 Redis/Memcache
+  - 📨 RabbitMQ & Redis
+  - 🔴 Laravel & 🦅 Phalcon
+  - 🔄 WebSockets & Ratchet PHP
+  - ✔️ Static analysis tools (PHPStan/Larastan/Psalm)
+* Frontend 
+  - 🟡 Modern JavaScript ES5/ES6
+  - 🔵 jQuery, :atom: ReactJs (Fundamentals), 🟢 VueJs (Fundamentals)
+* Infrastructure
+  - 🔵 Bamboo, ⚫ Github Actions, and 🟠 GitLab CI/CD
+  - 🛳️ Docker
+  - 🐧 Linux
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/andriichuk)  
 
