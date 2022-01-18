@@ -29,6 +29,7 @@ Skills:
   - 🟡 Modern JavaScript ES5/ES6
   - 🔵 jQuery, :atom: ReactJs (Fundamentals), 🟢 VueJs (Fundamentals)
 * Infrastructure
+  - ↕️ Git & GitFlow
   - 🔵 Bamboo, ⚫ Github Actions, and 🟠 GitLab CI/CD
   - 🛳️ Docker
   - 🐧 Linux
