@@ -12,7 +12,8 @@ I build backend applications and reusable PHP packages. My open-source work focu
 | --- | --- |
 | [Laravel HTTP Logger](https://github.com/andriichuk/laravel-http-logger) | Configurable request and response logging with sensitive-field masking and route/status filters. |
 | [Laracash](https://github.com/andriichuk/laracash) | MoneyPHP integration for Laravel, with Eloquent casts for money and currencies. |
-| [PHP cURL Cookbook](https://github.com/andriichuk/php-curl-cookbook) | Practical examples for HTTP requests, authentication, file transfers, and debugging. |
+| [Laravel HTTP Client Logger](https://github.com/andriichuk/laravel-http-client-logger) | Outgoing HTTP request and response logging with sensitive-field masking and status filters. |
+| [Releaser](https://github.com/andriichuk/releaser) | Release automation, pre-commit checks, deployment, and local setup helpers for PHP/Laravel. |
 | [Pushbox](https://github.com/andriichuk/pushbox) | A Laravel development tool for previewing FCM notification payloads in the browser. |
 
 ## Currently building
@@ -22,7 +23,7 @@ I build backend applications and reusable PHP packages. My open-source work focu
 
 ## Consulting
 
-For PHP/Laravel consulting around APIs, integrations, and package development, [get in touch](https://twitter.com/andriichuk29).
+For PHP/Laravel consulting around APIs, integrations, and package development, contact me at [andriichuk29@gmail.com](mailto:andriichuk29@gmail.com).
 
 <details>
 <summary>Beyond code</summary>
